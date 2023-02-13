@@ -203,17 +203,13 @@ nav {
     align-items: center;
 }
 
-.imgwithp img {
-    /* width: 2rem; */
-
-}
-
 .features-div2 {
     align-items: center;
     display: flex;
     justify-content: center;
     gap: 2rem;
     overflow: hidden;
+    padding: 2rem 0;
 
 }
 
